@@ -1,6 +1,6 @@
 # Mediroza General Hospital — Penetration Testing Report
 
-**Networkwalks Cybersecurity Program | Batch B083 | Week 4**
+**Networkwalks Cybersecurity Program | Batch B084 | Week 4**
 
 > ⚠️ **Educational Engagement Notice**
 > This assessment was carried out against `medirozahospital.com`, a training target set up for the Networkwalks Batch B083 program, under explicit written authorisation from Networkwalks for the sole purpose of this coursework. Every technique described below was used in that controlled, authorised context only. None of this should be attempted against any system you don't own or have written permission to test — doing so is illegal in most jurisdictions.
@@ -16,7 +16,7 @@
 | **Target** | `https://medirozahospital.com` |
 | **Duration** | 5 days |
 | **Tester** | *Ibrahim Sora* |
-| **Program** | Networkwalks — Batch B083, Week 4 |
+| **Program** | Networkwalks — Batch B084, Week 4 |
 | **Authorisation** | Written permission granted by Networkwalks for this engagement |
 
 The brief for this engagement was simple to state and more involved to execute: get into the application as an outsider would, pull three confidential patient lab reports, break whatever was protecting them, and see how far that access actually went. It turned into a pretty clean example of how a handful of small, "low severity on their own" misconfigurations stack into a serious data breach when nobody's connecting the dots between them.
