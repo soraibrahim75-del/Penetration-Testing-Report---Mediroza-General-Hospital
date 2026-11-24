@@ -225,7 +225,7 @@ Screenshots and supporting evidence files are stored in [`/evidence`](./evidence
 
 ## 8. Tools Used
 
-`whatweb` · `gobuster` · `curl` · `pdf2john` · `John the Ripper` · `exiftool` · `pdfinfo` · `pdftotext`
+`whatweb` · `gobuster` · `curl` · `pdf2john` · `John the Ripper` · `exiftool` · `pdfinfo` · `pdftotext` . `burpsuite` . `SQLi`
 
 ---
 
