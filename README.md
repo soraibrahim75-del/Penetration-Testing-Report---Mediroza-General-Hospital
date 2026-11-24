@@ -15,7 +15,7 @@
 | **Engagement Type** | Black-box Penetration Test |
 | **Target** | `https://medirozahospital.com` |
 | **Duration** | 5 days |
-| **Tester** | *[Your name / handle]* |
+| **Tester** | *Ibrahim Sora* |
 | **Program** | Networkwalks — Batch B083, Week 4 |
 | **Authorisation** | Written permission granted by Networkwalks for this engagement |
 
